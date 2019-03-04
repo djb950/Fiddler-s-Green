@@ -2083,7 +2083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a69f0e5e6a0584633aaff93fb3f190f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 2
   axis: 0
   direction: 1
 --- !u!1001 &171397309
@@ -17165,6 +17165,10 @@ PrefabInstance:
     - target: {fileID: 100004, guid: 1340630fb7a3267499177be33f281f05, type: 3}
       propertyPath: m_Name
       value: SkyDome
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 1340630fb7a3267499177be33f281f05, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 1340630fb7a3267499177be33f281f05, type: 3}
       propertyPath: m_IsActive

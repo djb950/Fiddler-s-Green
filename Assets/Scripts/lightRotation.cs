@@ -7,7 +7,7 @@ public class lightRotation : MonoBehaviour
 
 
     Light lt;
-    Color sunLight = new Color(1f, 0.92f, 0.016f);
+    Color sunLight = new Color(1f, 0.93f, 0.619f);
     public float speed = 24.0f;
  
     Vector3 angle;
@@ -28,7 +28,7 @@ public class lightRotation : MonoBehaviour
     {
         angle = transform.localEulerAngles;
         lt = GetComponent<Light>();
-        lt.intensity = .4f;
+        lt.intensity = .2f;
 
     }
 
@@ -59,7 +59,7 @@ public class lightRotation : MonoBehaviour
 
         if (0 <= rotation && rotation <= 45)
             
-            lt.intensity += .001f;
+            lt.intensity += .0008f;
             lt.color = sunLight;
         ;
 
@@ -71,7 +71,7 @@ public class lightRotation : MonoBehaviour
 
         if (135 < rotation && rotation <= 180)
          //   lt.color = Color.red + Color.yellow;
-            lt.intensity -= .001f;
+            lt.intensity -= .0008f;
         ;
 
 
