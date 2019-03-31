@@ -49,7 +49,7 @@ Material:
     - _Cull: 1
     - _Cull_: 0
     - _Diffuse: 1
-    - _Direction: 239
+    - _Direction: 192
     - _Distort: 1
     - _Distortion: 1
     - _EdgeBlend: 1
@@ -60,9 +60,9 @@ Material:
     - _FresPower: 1.42
     - _Gloss: 0.6
     - _HQFoam: 1
-    - _Height: 0.4
-    - _Height_: 0.78165406
-    - _Length: 4
+    - _Height: 0.1
+    - _Height_: 0.19541351
+    - _Length: 3
     - _LightAbs: 1
     - _NormalOffset: 1
     - _Opacity: 0.192
@@ -83,8 +83,8 @@ Material:
     - _Specular: 86
     - _Speed: 0.5
     - _Speed_: 0.97706753
-    - _Steepness: 0.287
-    - _Stretch: 10
+    - _Steepness: 0.185
+    - _Stretch: 20
     - _TexSize_: 125.064644
     - _Time_: 0
     - _TransformScale_: 1.9541351
@@ -93,9 +93,9 @@ Material:
     m_Colors:
     - _Color: {r: 0.18396229, g: 0.901573, b: 1, a: 0.3372549}
     - _DeepColor: {r: 0, g: 0.1831447, b: 0.24528301, a: 0.9098039}
-    - _Direction_: {r: -0.5150383, g: -0.8571672, b: -1.1554097, a: -1.9229236}
+    - _Direction_: {r: -0.97814757, g: -0.20791179, b: -1.060845, a: -0.22548969}
     - _FresColor: {r: 0.36689016, g: 0.52222586, b: 0.5735294, a: 1}
     - _ShoreColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 1, g: 0.9056604, b: 0.6556604, a: 1}
-    - _Sun: {r: 0.3213938, g: 0.76604444, b: -0.5566705, a: 0}
-    - _SunColor: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+    - _Sun: {r: -0.0011218752, g: 0.7660445, b: -0.6427866, a: 0}
+    - _SunColor: {r: 1, g: 0.93, b: 0.619, a: 1}

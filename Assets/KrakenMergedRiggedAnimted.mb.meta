@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: ed37b422d7fb38e4097c08c20fb3c21a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bend8Handle
+    100002: curve1
+    100004: ikHandle1
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint12
+    100014: joint2
+    100016: joint3
+    100018: joint4
+    100020: joint5
+    100022: joint6
+    100024: joint7
+    100026: joint8
+    100028: joint9
+    100030: //RootNode
+    100032: left
+    100034: sucker
+    100036: sucker 1
+    100038: sucker 2
+    100040: sucker 3
+    100042: sucker 4
+    100044: sucker 5
+    100046: sucker_bend
+    100048: sucker_bend 1
+    100050: sucker_bend 2
+    100052: sucker_bend 3
+    100054: sucker_bend 4
+    100056: sucker_bend 5
+    100058: sucker_group
+    100060: sucker_group1
+    100062: sucker_group2
+    100064: sucker_group3
+    100066: sucker_group4
+    100068: sucker_group5
+    100070: tentacle
+    100072: tentacle_bend
+    100074: tentacleMerged
+    100076: transform1
+    100078: transform2
+    100080: transform3
+    100082: transform4
+    100084: transform5
+    100086: transform6
+    100088: transform7
+    400000: bend8Handle
+    400002: curve1
+    400004: ikHandle1
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint12
+    400014: joint2
+    400016: joint3
+    400018: joint4
+    400020: joint5
+    400022: joint6
+    400024: joint7
+    400026: joint8
+    400028: joint9
+    400030: //RootNode
+    400032: left
+    400034: sucker
+    400036: sucker 1
+    400038: sucker 2
+    400040: sucker 3
+    400042: sucker 4
+    400044: sucker 5
+    400046: sucker_bend
+    400048: sucker_bend 1
+    400050: sucker_bend 2
+    400052: sucker_bend 3
+    400054: sucker_bend 4
+    400056: sucker_bend 5
+    400058: sucker_group
+    400060: sucker_group1
+    400062: sucker_group2
+    400064: sucker_group3
+    400066: sucker_group4
+    400068: sucker_group5
+    400070: tentacle
+    400072: tentacle_bend
+    400074: tentacleMerged
+    400076: transform1
+    400078: transform2
+    400080: transform3
+    400082: transform4
+    400084: transform5
+    400086: transform6
+    400088: transform7
+    2000000: left
+    2100000: lambert1
+    4300000: tentacleMerged
+    9500000: //RootNode
+    13700000: tentacleMerged
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
