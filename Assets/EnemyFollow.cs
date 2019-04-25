@@ -6,7 +6,8 @@ using Valve.VR;
 public class EnemyFollow : MonoBehaviour
 {
     //MARK: Properties
-    public Transform Player;
+    //public BoxCollider Yarr;
+    public Transform Player; 
     public int maxDist = 10;
     public int minDist = 5;
     Transform target; //the enemy's target
@@ -32,6 +33,7 @@ public class EnemyFollow : MonoBehaviour
     void Awake()
     {
         myTransform = transform; //cache transform data for easy access/preformance
+        
     }
 
 
@@ -65,6 +67,9 @@ public class EnemyFollow : MonoBehaviour
             anim.SetBool("isRunning", false);
             anim.SetBool("isDead", true);
             print("Health decreased; trigger");
+            Destroy(GetComponent<BoxCollider>());
+            Destroy(GetComponent<Rigidbody>());
+            
         }
     }
 

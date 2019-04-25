@@ -40,9 +40,9 @@ public class CollisionDetection : MonoBehaviour
         // Decrease health if enemy hits player
         if (other.gameObject.CompareTag("enemy"))
         {
-            print(playerHealth);
+            
             playerHealth -= .01f;
-            print(playerHealth);
+            
             SetHealthText();
         }
 
